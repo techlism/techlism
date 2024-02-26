@@ -4,9 +4,7 @@
 - 💞️ I’m looking to collaborate on Web Projects
 - 📫 Find me on Youtube @techlism
 - 🔗 <a href="https://www.linkedin.com/in/kundan-kumar-a54461202">LinkedIn</a>
-<br/>
-<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techlism&layout=compact)
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techlism&layout=compact)
 <!---
 techlism/techlism is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
